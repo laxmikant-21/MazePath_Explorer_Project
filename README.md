@@ -5,11 +5,11 @@ This project is designed to solve mazes and find the shortest path from a starti
 <br>
 Technologies Used
 <br>
-1. Java: A high-level, object-oriented programming language used to build the core logic of the maze solver.
+Java: A high-level, object-oriented programming language used to build the core logic of the maze solver.
 <br>
-2. Java Swing: A GUI toolkit from Java Foundation Classes (JFC) used to design the graphical interface of the application.
+Java Swing: A GUI toolkit from Java Foundation Classes (JFC) used to design the graphical interface of the application.
 <br>
-3. JFrame & GUI Components: JFrame acts as the main window, while components like JButton, JPanel, and JComboBox enable user interaction and maze editing.
+JFrame & GUI Components: JFrame acts as the main window, while components like JButton, JPanel, and JComboBox enable user interaction and maze editing.
 
 
 
