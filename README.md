@@ -4,7 +4,7 @@ Welcome to the MazeSolver Project
 This project is designed to solve mazes and find the shortest path from a starting point to the goal using graph traversal algorithms like DFS (Depth-First Search) and BFS (Breadth-First Search).
 <br>
 
-Technologies Used
+**Technologies Used**
 
 **Java:** A high-level, object-oriented programming language used to build the core logic of the maze solver.
 
